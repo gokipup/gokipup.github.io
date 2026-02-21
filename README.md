@@ -1,1 +1,0 @@
-# gokipup.github.io
