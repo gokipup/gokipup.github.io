@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[55676,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Header"]
+8:I[20602,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"AnimateOnScroll"]
+9:I[99352,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],""]
+a:I[1793,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Image"]
+b:I[36345,["/_next/static/chunks/33074d3ff5d0cd2d.js","/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+3:Tf93,<h2>1. O Que São Cookies</h2>
+<p>Cookies são pequenos arquivos de texto armazenados no seu dispositivo pelo seu navegador quando você visita um site. Eles são amplamente utilizados para fazer sites funcionarem corretamente, lembrar suas preferências e proporcionar uma melhor experiência de uso.</p>
+<p>Também utilizamos tecnologias similares, como armazenamento local (local storage do navegador) para fins limitados descritos abaixo.</p>
+<h2>2. Cookies Essenciais</h2>
+<p>Estes cookies são estritamente necessários para o funcionamento do Serviço e não podem ser desativados. Eles não requerem consentimento sob as leis de privacidade aplicáveis.</p>
+<ul>
+<li><strong>Cookie de autenticação</strong> (<code>sb-*-auth-token</code>): Gerenciado pela Supabase, este cookie armazena seu token de sessão criptografado para mantê-lo conectado de forma segura. É definido quando você faz login e removido quando você sai.</li>
+<li><strong>Sessão de dispositivo TV</strong> (<code>tv_secret</code>): Armazena o identificador de sessão do dispositivo quando uma TV é conectada a uma conta familiar via QR code. Duração: 1 ano.</li>
+<li><strong>Sessão de dispositivo celular</strong> (<code>phone_secret</code>): Armazena o identificador de sessão do dispositivo quando um celular é conectado ao perfil de uma criança via QR code. Duração: 1 ano.</li>
+</ul>
+<h2>3. Cookies Funcionais</h2>
+<p>Estes cookies aprimoram o Serviço ao lembrar suas preferências. Embora não sejam estritamente necessários para o funcionamento do Serviço, eles proporcionam uma melhor experiência.</p>
+<ul>
+<li><strong>Preferência de idioma</strong> (<code>NEXT_LOCALE</code>): Armazena o idioma selecionado (português, inglês ou espanhol) para que o Serviço seja exibido no idioma correto em todas as visitas. Duração: 1 ano.</li>
+</ul>
+<h2>4. Armazenamento Local</h2>
+<p>Utilizamos o armazenamento local do navegador para o seguinte fim:</p>
+<ul>
+<li><strong>E-mail lembrado</strong> (<code>kipup_remembered_email</code>): Quando você marca &quot;Lembrar-me&quot; na página de login, seu endereço de e-mail é salvo localmente no seu dispositivo para preencher automaticamente o formulário de login na próxima visita. Estes dados são armazenados apenas no seu dispositivo e nunca são enviados aos nossos servidores. Você pode limpar isso desmarcando &quot;Lembrar-me&quot; ou limpando os dados do navegador.</li>
+</ul>
+<h2>5. Cookies de Terceiros</h2>
+<p>Não utilizamos cookies de terceiros. Não usamos serviços de análise, publicidade ou rastreamento de nenhum tipo. Nenhum dado sobre seu comportamento de navegação é compartilhado com terceiros através de cookies.</p>
+<h2>6. Gerenciamento de Cookies</h2>
+<p>Você pode gerenciar ou excluir cookies através das configurações do seu navegador. Observe que desativar cookies essenciais pode impedir o funcionamento adequado do Serviço.</p>
+<p>Configurações comuns de navegadores para gerenciar cookies:</p>
+<ul>
+<li><strong>Chrome:</strong> Configurações &gt; Privacidade e Segurança &gt; Cookies</li>
+<li><strong>Firefox:</strong> Configurações &gt; Privacidade e Segurança &gt; Cookies</li>
+<li><strong>Safari:</strong> Preferências &gt; Privacidade &gt; Cookies</li>
+<li><strong>Edge:</strong> Configurações &gt; Privacidade &gt; Cookies</li>
+</ul>
+<p>Para limpar dados de armazenamento local, use as ferramentas de desenvolvedor do seu navegador ou as configurações de limpeza de dados de navegação.</p>
+<h2>7. Alterações nesta Política</h2>
+<p>Podemos atualizar esta Política de Cookies para refletir mudanças no nosso uso de cookies. Quando fizermos alterações significativas, atualizaremos a data de &quot;Última atualização&quot; no topo desta página.</p>
+<h2>8. Fale Conosco</h2>
+<p>Se você tiver dúvidas sobre nosso uso de cookies, entre em contato conosco:</p>
+<p><strong>E-mail:</strong> <a href="mailto:contact@hello.gokipup.com">contact@hello.gokipup.com</a></p>
+0:{"buildId":"zC1bbrcQRv8IM4H1_5s1F","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"dict":{"cta":"Comece Agora","menu":{"howItWorks":"Como Funciona","features":"Recursos","pricing":"Preços"}},"lang":"pt"}],["$","main",null,{"className":"mx-auto max-w-3xl px-4 pt-28 pb-20 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-kp-navy md:text-4xl","children":"Política de Cookies"}],["$","p",null,{"className":"mt-2 text-sm text-kp-muted","children":"Última atualização: 21 de fevereiro de 2026"}],["$","article",null,{"className":"mt-10 [&_h2]:mt-8 [&_h2]:mb-3 [&_h2]:text-xl [&_h2]:font-semibold [&_h2]:text-kp-navy [&_p]:mb-3 [&_p]:text-sm [&_p]:leading-relaxed [&_p]:text-kp-muted [&_ul]:mb-3 [&_ul]:list-disc [&_ul]:space-y-1.5 [&_ul]:pl-6 [&_li]:text-sm [&_li]:leading-relaxed [&_li]:text-kp-muted [&_strong]:font-semibold [&_strong]:text-kp-navy [&_a]:text-kp-blue [&_a]:underline [&_a]:underline-offset-2 hover:[&_a]:text-kp-blue/80 [&_code]:rounded [&_code]:bg-kp-bg-alt [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:text-xs [&_code]:text-kp-navy","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","footer",null,{"className":"bg-kp-navy-deep","children":[["$","div",null,{"className":"border-b border-white/10","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-20 text-center sm:px-6 lg:px-8","children":[["$","$L8",null,{"animation":"fade-in-up","children":["$","h2",null,{"className":"text-3xl font-bold text-white md:text-4xl","children":"Pronto Para Tornar Tarefas Divertidas?"}]}],["$","$L8",null,{"animation":"fade-in-up","delay":0.1,"children":["$","p",null,{"className":"mx-auto mt-4 max-w-2xl text-lg text-white/70","children":"Transforme tarefas diárias em aventuras emocionantes para sua família. Comece hoje — sem compromisso."}]}],["$","$L8",null,{"animation":"scale-in","delay":0.2,"children":["$","div",null,{"className":"mt-8","children":["$","$L9",null,{"href":"https://app.gokipup.com","className":"inline-flex items-center justify-center gap-2 rounded-xl font-semibold transition-all duration-200 cursor-pointer whitespace-nowrap bg-kp-blue hover:bg-kp-blue-hover text-white shadow-lg shadow-kp-blue/20 hover:shadow-kp-blue/30 px-8 py-4 text-lg ","children":"Comece Agora"}]}]}]]}]}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/pt","children":["$","$La",null,{"src":"/kipup-logo.svg","alt":"Kipup","width":100,"height":32,"className":"h-8 w-auto"}]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-white/50","children":"Tornando tarefas divertidas, uma missão por vez."}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","$L9","en",{"href":"/en","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"EN"}],["$","$L9","es",{"href":"/es","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"ES"}]]}]]}],[["$","div","Produto",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Produto"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Recursos",{"children":["$","a",null,{"href":"#features","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Recursos"}]}],["$","li","Preços",{"children":["$","a",null,{"href":"#pricing","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Preços"}]}],["$","li","Como Funciona",{"children":["$","a",null,{"href":"#how-it-works","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Como Funciona"}]}]]}]]}],["$","div","Legal",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Legal"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Política de Privacidade",{"children":["$","$L9",null,{"href":"/pt/privacy","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Política de Privacidade"}]}],["$","li","Termos de Serviço",{"children":["$","$L9",null,{"href":"/pt/terms","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Termos de Serviço"}]}],["$","li","Política de Cookies",{"children":["$","$L9",null,{"href":"/pt/cookies","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Política de Cookies"}]}]]}]]}]]]}],["$","div",null,{"className":"mt-12 border-t border-white/10 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-white/40","children":"© 2026 Kipup. Todos os direitos reservados."}]}]]}]]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/cbc16cc796f29ab6.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/070f328555021e23.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

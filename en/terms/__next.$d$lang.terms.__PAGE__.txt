@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[55676,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Header"]
+8:I[20602,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"AnimateOnScroll"]
+9:I[99352,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],""]
+a:I[1793,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Image"]
+b:I[36345,["/_next/static/chunks/33074d3ff5d0cd2d.js","/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+3:T15eb,<h2>1. Acceptance of Terms</h2>
+<p>By creating an account or using the Kipup application and website (the &quot;Service&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;). If you do not agree to these Terms, do not use the Service.</p>
+<p>Kipup reserves the right to update these Terms at any time. Continued use of the Service after changes are posted constitutes acceptance of the updated Terms.</p>
+<h2>2. Description of Service</h2>
+<p>Kipup is a family gamification platform that allows parents and guardians to manage chores, assign tasks, track points, and define rewards for their children. The Service includes web, TV, and phone interfaces.</p>
+<h2>3. Eligibility</h2>
+<p>You must be at least 18 years old to create an account and use the Service. By registering, you represent that you are a legal adult and have the authority to manage the family profiles you create.</p>
+<p>Children do not create accounts. Children&#39;s profiles are created and managed exclusively by their parent or guardian.</p>
+<h2>4. Account Responsibilities</h2>
+<p>You are responsible for:</p>
+<ul>
+<li>Providing accurate and complete information when creating your account.</li>
+<li>Maintaining the confidentiality of your password and account credentials.</li>
+<li>All activity that occurs under your account, including actions taken by family members you have invited.</li>
+<li>Ensuring that your use of the Service complies with applicable laws.</li>
+</ul>
+<p>You must notify us immediately if you suspect unauthorized access to your account.</p>
+<h2>5. Children&#39;s Profiles</h2>
+<p>As a parent or guardian, you are solely responsible for all information you provide about your children, including names, avatar photos, and task assignments.</p>
+<p>You represent that you have the legal authority to provide this information and consent to its processing as described in our Privacy Policy.</p>
+<h2>6. Points and Rewards</h2>
+<p>Points earned within the Service are entirely virtual and have no monetary value. Points cannot be exchanged for cash, transferred between families, or redeemed outside the Service.</p>
+<p>Rewards defined within the Service are configured by parents and are fulfilled outside the platform at the parent&#39;s discretion. Kipup is not responsible for the fulfillment of any rewards.</p>
+<h2>7. User Content</h2>
+<p>You may upload content to the Service, such as avatar photos for children&#39;s profiles. You retain ownership of your content and are solely responsible for ensuring it is appropriate and does not violate any third-party rights.</p>
+<p>By uploading content, you grant Kipup a limited, non-exclusive license to store, display, and process the content as necessary to provide the Service.</p>
+<h2>8. Acceptable Use</h2>
+<p>You agree not to:</p>
+<ul>
+<li>Use the Service for any unlawful purpose.</li>
+<li>Upload content that is offensive, harmful, or violates third-party rights.</li>
+<li>Attempt to gain unauthorized access to other users&#39; accounts or data.</li>
+<li>Interfere with or disrupt the Service&#39;s infrastructure.</li>
+<li>Use automated means (bots, scrapers) to access the Service.</li>
+<li>Impersonate another person or entity.</li>
+</ul>
+<h2>9. Service Availability</h2>
+<p>The Service is provided on an &quot;as is&quot; and &quot;as available&quot; basis. We do not guarantee uninterrupted, error-free, or secure access to the Service.</p>
+<p>We may modify, suspend, or discontinue any part of the Service at any time, with or without notice. We are not liable for any downtime or interruptions.</p>
+<h2>10. Limitation of Liability</h2>
+<p>To the fullest extent permitted by applicable law, Kipup shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use the Service.</p>
+<p>Our total liability for any claim arising from these Terms or the Service shall not exceed the amount you have paid us in the 12 months preceding the claim, or $10 USD, whichever is greater.</p>
+<h2>11. Disclaimer of Warranties</h2>
+<p>The Service is provided &quot;as is&quot; without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
+<p>We do not warrant that the Service will meet your expectations, be available without interruption, or be free from errors or security vulnerabilities.</p>
+<h2>12. Termination</h2>
+<p>You may delete your account and stop using the Service at any time through the account settings. Upon deletion, your personal data and all associated family data will be removed in accordance with our Privacy Policy.</p>
+<p>We may suspend or terminate your account if you violate these Terms or use the Service in a manner that could harm other users or our infrastructure. In case of termination for cause, we will make reasonable efforts to notify you.</p>
+<h2>13. Governing Law</h2>
+<p>These Terms shall be governed by and construed in accordance with the laws applicable to you based on your country of residence, without regard to conflict of law provisions.</p>
+<p>For users in Brazil, the Brazilian Consumer Defense Code and the LGPD apply. For users in the European Union, the GDPR and local consumer protection laws apply. For users in the United States, federal and applicable state laws apply.</p>
+<h2>14. Contact Us</h2>
+<p>If you have questions about these Terms of Service, please contact us at:</p>
+<p><strong>Email:</strong> <a href="mailto:contact@hello.gokipup.com">contact@hello.gokipup.com</a></p>
+0:{"buildId":"zC1bbrcQRv8IM4H1_5s1F","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"dict":{"cta":"Get Started","menu":{"howItWorks":"How It Works","features":"Features","pricing":"Pricing"}},"lang":"en"}],["$","main",null,{"className":"mx-auto max-w-3xl px-4 pt-28 pb-20 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-kp-navy md:text-4xl","children":"Terms of Service"}],["$","p",null,{"className":"mt-2 text-sm text-kp-muted","children":"Last updated: February 21, 2026"}],["$","article",null,{"className":"mt-10 [&_h2]:mt-8 [&_h2]:mb-3 [&_h2]:text-xl [&_h2]:font-semibold [&_h2]:text-kp-navy [&_p]:mb-3 [&_p]:text-sm [&_p]:leading-relaxed [&_p]:text-kp-muted [&_ul]:mb-3 [&_ul]:list-disc [&_ul]:space-y-1.5 [&_ul]:pl-6 [&_li]:text-sm [&_li]:leading-relaxed [&_li]:text-kp-muted [&_strong]:font-semibold [&_strong]:text-kp-navy [&_a]:text-kp-blue [&_a]:underline [&_a]:underline-offset-2 hover:[&_a]:text-kp-blue/80 [&_code]:rounded [&_code]:bg-kp-bg-alt [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:text-xs [&_code]:text-kp-navy","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","footer",null,{"className":"bg-kp-navy-deep","children":[["$","div",null,{"className":"border-b border-white/10","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-20 text-center sm:px-6 lg:px-8","children":[["$","$L8",null,{"animation":"fade-in-up","children":["$","h2",null,{"className":"text-3xl font-bold text-white md:text-4xl","children":"Ready to Make Chores Fun?"}]}],["$","$L8",null,{"animation":"fade-in-up","delay":0.1,"children":["$","p",null,{"className":"mx-auto mt-4 max-w-2xl text-lg text-white/70","children":"Turn daily tasks into exciting adventures for your family. Get started today — no strings attached."}]}],["$","$L8",null,{"animation":"scale-in","delay":0.2,"children":["$","div",null,{"className":"mt-8","children":["$","$L9",null,{"href":"https://app.gokipup.com","className":"inline-flex items-center justify-center gap-2 rounded-xl font-semibold transition-all duration-200 cursor-pointer whitespace-nowrap bg-kp-blue hover:bg-kp-blue-hover text-white shadow-lg shadow-kp-blue/20 hover:shadow-kp-blue/30 px-8 py-4 text-lg ","children":"Get Started"}]}]}]]}]}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/en","children":["$","$La",null,{"src":"/kipup-logo.svg","alt":"Kipup","width":100,"height":32,"className":"h-8 w-auto"}]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-white/50","children":"Making chores fun, one quest at a time."}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","$L9","pt",{"href":"/pt","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"PT"}],["$","$L9","es",{"href":"/es","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"ES"}]]}]]}],[["$","div","Product",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Product"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Features",{"children":["$","a",null,{"href":"#features","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Features"}]}],["$","li","Pricing",{"children":["$","a",null,{"href":"#pricing","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Pricing"}]}],["$","li","How It Works",{"children":["$","a",null,{"href":"#how-it-works","className":"text-sm text-white/50 transition-colors hover:text-white","children":"How It Works"}]}]]}]]}],["$","div","Legal",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Legal"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Privacy Policy",{"children":["$","$L9",null,{"href":"/en/privacy","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Privacy Policy"}]}],["$","li","Terms of Service",{"children":["$","$L9",null,{"href":"/en/terms","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Terms of Service"}]}],["$","li","Cookie Policy",{"children":["$","$L9",null,{"href":"/en/cookies","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Cookie Policy"}]}]]}]]}]]]}],["$","div",null,{"className":"mt-12 border-t border-white/10 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-white/40","children":"© 2026 Kipup. All rights reserved."}]}]]}]]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/cbc16cc796f29ab6.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/070f328555021e23.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

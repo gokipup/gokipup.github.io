@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[55676,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Header"]
+8:I[20602,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"AnimateOnScroll"]
+9:I[99352,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],""]
+a:I[1793,["/_next/static/chunks/53b78f0b94212cb5.js","/_next/static/chunks/cbc16cc796f29ab6.js","/_next/static/chunks/070f328555021e23.js"],"Image"]
+b:I[36345,["/_next/static/chunks/33074d3ff5d0cd2d.js","/_next/static/chunks/c4d90098b4abc498.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+3:T1d57,<h2>1. Introduction</h2>
+<p>Kipup (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) operates the Kipup application and website (collectively, the &quot;Service&quot;). This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our Service.</p>
+<p>By creating an account or using the Service, you agree to the practices described in this policy. If you do not agree, please do not use the Service.</p>
+<p>This policy is designed to comply with the Brazilian General Data Protection Law (LGPD), the European General Data Protection Regulation (GDPR), and the United States Children&#39;s Online Privacy Protection Act (COPPA), as applicable.</p>
+<h2>2. Information We Collect</h2>
+<p>We collect the following categories of personal information:</p>
+<p><strong>Account information:</strong> When you create an account, we collect your email address, display name, and password. Your password is securely hashed and never stored in plain text.</p>
+<p><strong>Profile preferences:</strong> We store your language preference (English, Portuguese, or Spanish) to personalize the Service.</p>
+<p><strong>Family information:</strong> When you create a family, we collect the family name and timezone setting.</p>
+<p><strong>Children&#39;s information:</strong> When you add children to your family, we collect the child&#39;s name and, optionally, an avatar photo uploaded by the parent or guardian. Children do not create accounts or provide their information directly.</p>
+<p><strong>Usage data:</strong> We store task lists, task completions, point transactions, rewards, and related activity created within the Service by parents or guardians.</p>
+<p><strong>Device sessions:</strong> When you connect a TV or phone device, we generate a session token stored as a cookie to maintain the device connection.</p>
+<h2>3. How We Use Your Information</h2>
+<p>We use the information we collect to:</p>
+<ul>
+<li>Provide, operate, and maintain the Service</li>
+<li>Authenticate your identity and secure your account</li>
+<li>Display personalized content in your preferred language</li>
+<li>Enable family management features (children, tasks, points, rewards)</li>
+<li>Maintain device connections (TV and phone modes)</li>
+<li>Communicate with you about your account when necessary</li>
+</ul>
+<p>We do not use your information for advertising, profiling, or automated decision-making. We do not sell, rent, or share your personal data with third parties for marketing purposes.</p>
+<h2>4. Legal Basis for Processing</h2>
+<p>We process your personal data based on the following legal grounds:</p>
+<ul>
+<li><strong>Consent:</strong> You provide consent when you create an account and voluntarily submit your information.</li>
+<li><strong>Contract performance:</strong> Processing is necessary to provide the Service you have requested.</li>
+<li><strong>Legitimate interest:</strong> We process certain data to maintain the security and proper functioning of the Service.</li>
+</ul>
+<h2>5. Children&#39;s Privacy</h2>
+<p>Kipup is designed for use by parents and guardians. Only adults (18 years or older) may create accounts. Children&#39;s profiles are created and managed exclusively by their parent or guardian.</p>
+<p>Children do not create accounts, do not provide personal information directly, and do not have access to the Service independently unless through a device session configured by the parent or guardian.</p>
+<p>The only children&#39;s data we store is their name and an optional avatar photo, both provided by the parent or guardian. We do not collect children&#39;s email addresses, location data, or any other personal information from children.</p>
+<p>Parents and guardians may at any time view, edit, or delete their children&#39;s information through the Service. If you believe a child&#39;s data has been collected without proper parental consent, please contact us and we will promptly delete it.</p>
+<h2>6. Third-Party Service Providers</h2>
+<p>We use the following third-party services to operate the Service:</p>
+<ul>
+<li><strong>Supabase:</strong> Provides our database (PostgreSQL) and authentication service. Data is stored on Supabase&#39;s infrastructure. <a href="https://supabase.com/privacy">Privacy policy</a>.</li>
+<li><strong>Vercel:</strong> Provides hosting for our application and blob storage for uploaded avatar images. <a href="https://vercel.com/legal/privacy-policy">Privacy policy</a>.</li>
+</ul>
+<p>These providers act as data processors on our behalf and are contractually obligated to protect your data. We do not use any analytics, advertising, or tracking services.</p>
+<h2>7. International Data Transfers</h2>
+<p>Our service providers (Supabase and Vercel) may process data in the United States or other countries outside your country of residence. When this occurs, we ensure that appropriate safeguards are in place, including standard contractual clauses and the providers&#39; compliance with applicable data protection regulations.</p>
+<h2>8. Data Security</h2>
+<p>We implement appropriate technical and organizational measures to protect your personal data, including:</p>
+<ul>
+<li>Encrypted data transmission (HTTPS/TLS)</li>
+<li>Securely hashed passwords</li>
+<li>Row-Level Security (RLS) policies in our database to ensure users can only access their own family&#39;s data</li>
+<li>Secure session management with HTTP-only cookies</li>
+</ul>
+<p>While we take reasonable measures to protect your data, no system is completely secure. We cannot guarantee absolute security of your information.</p>
+<h2>9. Your Rights</h2>
+<p>Depending on your jurisdiction, you may have the following rights regarding your personal data:</p>
+<ul>
+<li><strong>Access:</strong> Request a copy of the personal data we hold about you.</li>
+<li><strong>Rectification:</strong> Request correction of inaccurate data.</li>
+<li><strong>Deletion:</strong> Request deletion of your personal data and account.</li>
+<li><strong>Portability:</strong> Request your data in a structured, commonly used format.</li>
+<li><strong>Withdraw consent:</strong> Withdraw your consent to data processing at any time.</li>
+<li><strong>Object:</strong> Object to data processing based on legitimate interest.</li>
+<li><strong>File a complaint:</strong> Lodge a complaint with your local data protection authority.</li>
+</ul>
+<p>To exercise any of these rights, please contact us at <a href="mailto:contact@hello.gokipup.com">contact@hello.gokipup.com</a>. We will respond within 15 business days (LGPD) or 30 days (GDPR), as applicable.</p>
+<h2>10. Data Retention</h2>
+<p>We retain your personal data for as long as your account is active and as necessary to provide the Service. When you delete your account, we delete your personal data and all associated family data within 30 days.</p>
+<p>We may retain certain data for longer periods if required by law or for legitimate business purposes such as resolving disputes.</p>
+<h2>11. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. When we make significant changes, we will notify you through the Service or via email. Your continued use of the Service after changes take effect constitutes acceptance of the updated policy.</p>
+<h2>12. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us at:</p>
+<p><strong>Email:</strong> <a href="mailto:contact@hello.gokipup.com">contact@hello.gokipup.com</a></p>
+0:{"buildId":"zC1bbrcQRv8IM4H1_5s1F","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"dict":{"cta":"Get Started","menu":{"howItWorks":"How It Works","features":"Features","pricing":"Pricing"}},"lang":"en"}],["$","main",null,{"className":"mx-auto max-w-3xl px-4 pt-28 pb-20 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"text-3xl font-bold text-kp-navy md:text-4xl","children":"Privacy Policy"}],["$","p",null,{"className":"mt-2 text-sm text-kp-muted","children":"Last updated: February 21, 2026"}],["$","article",null,{"className":"mt-10 [&_h2]:mt-8 [&_h2]:mb-3 [&_h2]:text-xl [&_h2]:font-semibold [&_h2]:text-kp-navy [&_p]:mb-3 [&_p]:text-sm [&_p]:leading-relaxed [&_p]:text-kp-muted [&_ul]:mb-3 [&_ul]:list-disc [&_ul]:space-y-1.5 [&_ul]:pl-6 [&_li]:text-sm [&_li]:leading-relaxed [&_li]:text-kp-muted [&_strong]:font-semibold [&_strong]:text-kp-navy [&_a]:text-kp-blue [&_a]:underline [&_a]:underline-offset-2 hover:[&_a]:text-kp-blue/80 [&_code]:rounded [&_code]:bg-kp-bg-alt [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:text-xs [&_code]:text-kp-navy","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","footer",null,{"className":"bg-kp-navy-deep","children":[["$","div",null,{"className":"border-b border-white/10","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-20 text-center sm:px-6 lg:px-8","children":[["$","$L8",null,{"animation":"fade-in-up","children":["$","h2",null,{"className":"text-3xl font-bold text-white md:text-4xl","children":"Ready to Make Chores Fun?"}]}],["$","$L8",null,{"animation":"fade-in-up","delay":0.1,"children":["$","p",null,{"className":"mx-auto mt-4 max-w-2xl text-lg text-white/70","children":"Turn daily tasks into exciting adventures for your family. Get started today — no strings attached."}]}],["$","$L8",null,{"animation":"scale-in","delay":0.2,"children":["$","div",null,{"className":"mt-8","children":["$","$L9",null,{"href":"https://app.gokipup.com","className":"inline-flex items-center justify-center gap-2 rounded-xl font-semibold transition-all duration-200 cursor-pointer whitespace-nowrap bg-kp-blue hover:bg-kp-blue-hover text-white shadow-lg shadow-kp-blue/20 hover:shadow-kp-blue/30 px-8 py-4 text-lg ","children":"Get Started"}]}]}]]}]}],["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid gap-8 md:grid-cols-3","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/en","children":["$","$La",null,{"src":"/kipup-logo.svg","alt":"Kipup","width":100,"height":32,"className":"h-8 w-auto"}]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-white/50","children":"Making chores fun, one quest at a time."}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","$L9","pt",{"href":"/pt","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"PT"}],["$","$L9","es",{"href":"/es","className":"rounded-lg border border-white/20 px-3 py-1.5 text-sm font-medium text-white/60 transition-colors hover:border-kp-blue hover:text-white","children":"ES"}]]}]]}],[["$","div","Product",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Product"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Features",{"children":["$","a",null,{"href":"#features","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Features"}]}],["$","li","Pricing",{"children":["$","a",null,{"href":"#pricing","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Pricing"}]}],["$","li","How It Works",{"children":["$","a",null,{"href":"#how-it-works","className":"text-sm text-white/50 transition-colors hover:text-white","children":"How It Works"}]}]]}]]}],["$","div","Legal",{"children":[["$","h4",null,{"className":"mb-4 text-sm font-semibold text-white","children":"Legal"}],["$","ul",null,{"className":"space-y-3","children":[["$","li","Privacy Policy",{"children":["$","$L9",null,{"href":"/en/privacy","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Privacy Policy"}]}],["$","li","Terms of Service",{"children":["$","$L9",null,{"href":"/en/terms","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Terms of Service"}]}],["$","li","Cookie Policy",{"children":["$","$L9",null,{"href":"/en/cookies","className":"text-sm text-white/50 transition-colors hover:text-white","children":"Cookie Policy"}]}]]}]]}]]]}],["$","div",null,{"className":"mt-12 border-t border-white/10 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-white/40","children":"© 2026 Kipup. All rights reserved."}]}]]}]]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/cbc16cc796f29ab6.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/070f328555021e23.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null
