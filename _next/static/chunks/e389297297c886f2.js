@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,27637,t=>{"use strict";var e=t.i(75201);function o({path:t}){return(0,e.useEffect)(()=>{window.location.replace(`https://app.gokipup.com${t}`)},[t]),null}t.s(["AppRedirect",()=>o])}]);
