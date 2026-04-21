@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gokipup.mobile",
+      "sha256_cert_fingerprints": [
+        "FD:21:B0:A3:1C:4B:D0:C5:0A:95:74:F4:E0:5B:A9:C1:C5:BA:62:98:01:C8:10:71:F7:D0:AA:FA:33:17:AD:B1"
+      ]
+    }
+  }
+]
