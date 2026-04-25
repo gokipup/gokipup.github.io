@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[34779,["/_next/static/chunks/ddcdcf186b7dcbd4.js"],"AppRedirect"]
+2:I[34779,["/_next/static/chunks/23632adf23ef03c6.js"],"AppRedirect"]
 3:I[66612,["/_next/static/chunks/c483cc339100ed82.js","/_next/static/chunks/ccab5c17f763e4b9.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"I9wcQSBnJai4b1Lv1imJI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"path":"/phone"}],[["$","script","script-0",{"src":"/_next/static/chunks/ddcdcf186b7dcbd4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"V14K__9hrXXykiJNM2N-0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"path":"/phone"}],[["$","script","script-0",{"src":"/_next/static/chunks/23632adf23ef03c6.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
